@@ -1,6 +1,6 @@
 {
     "name": "wordpress-example",
-    "description": "Another wordpress site",
+    "description": "rymdfabriken/wordpress-example",
     "require": {
         "vlucas/phpdotenv": "^5.4"
     }
