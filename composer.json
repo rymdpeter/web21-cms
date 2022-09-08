@@ -1,4 +1,6 @@
 {
+    "name": "wordpress-example",
+    "description": "Another wordpress site",
     "require": {
         "vlucas/phpdotenv": "^5.4"
     }
