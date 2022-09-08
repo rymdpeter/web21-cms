@@ -1,7 +1,7 @@
 {
     "name": "rymdfabriken/wordpress-example",
     "description": "Another wordpress site",
-    "license": "Not applicable",
+    "license": "MIT",
     "require": {
         "vlucas/phpdotenv": "^5.4"
     }
